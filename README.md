@@ -12,11 +12,11 @@ Nuget package:
 
 ## About Version
 
-- 7.0.x is compatible with .Net 7.0.x;
-- 6.0.x is compatible with .Net 6.0.x;
-- 5.0.x is compatible with .Net 5.0.x;
-- 3.1.x is compatible with .Net Core 3.1.x;
-- 3.0.x is compatible with .Net Core 3.0.x;
+> 7.0.x is compatible with .Net 7.0.x;
+> 6.0.x is compatible with .Net 6.0.x;
+> 5.0.x is compatible with .Net 5.0.x;
+> 3.1.x is compatible with .Net Core 3.1.x;
+> 3.0.x is compatible with .Net Core 3.0.x;
 
 ## Usage
 
